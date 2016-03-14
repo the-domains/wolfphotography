@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8C8D0'
+    - '#105080'
+    - '#685838'
+    - '#3888C0'
+    - '#000000'
+  brandStrength: 0.5417138979310893
+  lightness: 0.23620821392110125
+  rhythmicContrast: 0.39637192198399407
+  saturation: 0.649106621031136
+cta: {}
+layout_spectrum: 0.6519944478945304
+name: wolfphotography
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.95673488886614
