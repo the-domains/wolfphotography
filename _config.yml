@@ -1,4 +1,20 @@
+name: wolfphotography
+favicon: null
+layout_spectrum: 0
 typography_spectrum: 0.95673488886614
+title: Wolf Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C8C8D0'
@@ -6,14 +22,11 @@ color:
     - '#685838'
     - '#3888C0'
     - '#000000'
-  brandStrength: 0.5417138979310893
+  brandStrength: 0.0625
   lightness: 0.23620821392110125
-  rhythmicContrast: 0.39637192198399407
   saturation: 0.649106621031136
-opengraph: {}
-layout_spectrum: 0.6519944478945304
-analytics: {}
-name: wolfphotography
-cta: {}
-title: Wolf Photography
-purpose: {}
+  rhythmicContrast: 0.39637192198399407
+purpose:
+  - name: null
+    item: null
+    url: null
