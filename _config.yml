@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.95673488886614
 color:
   brandColors:
     - '#C8C8D0'
@@ -10,9 +10,10 @@ color:
   lightness: 0.23620821392110125
   rhythmicContrast: 0.39637192198399407
   saturation: 0.649106621031136
-cta: {}
-layout_spectrum: 0.6519944478945304
-name: wolfphotography
 opengraph: {}
+layout_spectrum: 0.6519944478945304
+analytics: {}
+name: wolfphotography
+cta: {}
+title: Wolf Photography
 purpose: {}
-typography_spectrum: 0.95673488886614
