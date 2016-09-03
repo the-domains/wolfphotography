@@ -1,20 +1,4 @@
-name: wolfphotography
-favicon: null
-layout_spectrum: 0.7282354512717575
 typography_spectrum: 0.06719949771650136
-title: Wolf Photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#C8C8D0'
@@ -26,7 +10,22 @@ color:
   lightness: 0.23620821392110125
   saturation: 0.649106621031136
   rhythmicContrast: 0.39637192198399407
-purpose:
-  - name: null
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7282354512717575
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e8af26f-dc72-4f1a-9e01-26da85aaf340.jpg
+name: wolfphotography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Wolf Photography
+purpose: []
